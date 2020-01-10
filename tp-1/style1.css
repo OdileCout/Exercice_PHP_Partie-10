@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+form{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid grey;
+    width: 60%;
+    
+}
+
+.textare{
+    display: block;
+    width: 100%;
+}
+p{
+    color: red;
+    font-size: 0.8em;
+}
+#diplome{
+    display: inline;
+}

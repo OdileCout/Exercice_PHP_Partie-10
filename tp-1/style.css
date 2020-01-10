@@ -1,0 +1,17 @@
+#boutton {
+
+}
+.btn-primary{
+    margin-left: 520px;
+}
+form{
+    border: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    width: 70%;
+    
+}
