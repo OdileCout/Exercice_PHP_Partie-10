@@ -1,0 +1,26 @@
+body{
+  padding-left: 20%;
+  padding-right: 20%;
+  background-color: #F2F3F3;
+  color: white;
+}
+ul{
+    text-align: left;
+    display: inline-block;
+    left: 20%;
+}
+
+.btn{
+    background-color: #008C72;
+    margin-top: 20px;
+    color: white;
+}
+.page{
+    margin: 5% 5% 5% 5%;
+    border: 1px solid black;
+    background-color: orangered;
+    box-shadow: 8px 8px 8px;
+}
+p{
+    color: white;
+}
